@@ -1,0 +1,42 @@
+
+.card{
+    background:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 431px;
+    width: 286px;
+    margin: 150px;
+    border-radius: 15px;
+    
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 253px;
+    width:255px;
+    border-radius: 8px;
+}
+.text{
+    font-family: 'Outfit', sans-serif;
+    height: 135px;
+    width: 250px;
+    margin-top: 15px;   
+}
+.para{
+    font-weight: 400;
+    color: gray;
+    font-size: 15px;
+    
+}
+.main-text{
+    font-weight: bold;
+    font-size: 19px;
+}
